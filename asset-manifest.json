@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Calorie_Dzen/static/css/main.81b65fe9.chunk.css",
+    "main.js": "/Calorie_Dzen/static/js/main.897f90a7.chunk.js",
+    "main.js.map": "/Calorie_Dzen/static/js/main.897f90a7.chunk.js.map",
+    "runtime-main.js": "/Calorie_Dzen/static/js/runtime-main.d0496d26.js",
+    "runtime-main.js.map": "/Calorie_Dzen/static/js/runtime-main.d0496d26.js.map",
+    "static/js/2.37e1ad69.chunk.js": "/Calorie_Dzen/static/js/2.37e1ad69.chunk.js",
+    "static/js/2.37e1ad69.chunk.js.map": "/Calorie_Dzen/static/js/2.37e1ad69.chunk.js.map",
+    "index.html": "/Calorie_Dzen/index.html",
+    "static/css/main.81b65fe9.chunk.css.map": "/Calorie_Dzen/static/css/main.81b65fe9.chunk.css.map",
+    "static/js/2.37e1ad69.chunk.js.LICENSE.txt": "/Calorie_Dzen/static/js/2.37e1ad69.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Calorie_Dzen/static/media/Sumana-Regular.378ca15a.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0496d26.js",
+    "static/js/2.37e1ad69.chunk.js",
+    "static/css/main.81b65fe9.chunk.css",
+    "static/js/main.897f90a7.chunk.js"
+  ]
+}
