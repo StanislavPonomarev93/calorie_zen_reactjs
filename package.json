@@ -1,7 +1,8 @@
 {
-  "name": "emoji-critic",
+  "name": "calorie",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://stanislavponomarev93.github.io/Calorie_Dzen/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
