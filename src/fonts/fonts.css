@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url("../fonts/Roboto-Regular.woff") format("woff");
+}
+
+
+@font-face {
+  font-family: 'Sumana';
+  src: url("../fonts/Sumana-Regular.woff") format("woff");
+}

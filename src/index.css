@@ -1,3 +1,4 @@
+@import url('../src/fonts/fonts.css');
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,6 +6,25 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #ED6E4E;
+}
+
+input, select {
+	border: 1px solid white;
+  background-color: transparent;
+  border-radius: 10px;
+  height: 35px;
+  font-family: inherit;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 code {
