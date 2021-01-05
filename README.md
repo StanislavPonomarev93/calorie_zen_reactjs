@@ -1,4 +1,4 @@
-# [**сalorie_zen__ReactJS**](https://stanislavponomarev93.github.io/calorie_zen/)
+# [**сalorie_zen__reactjs**](https://stanislavponomarev93.github.io/calorie_zen_reactjs/)
 
 Небольшое приложение по подсчету калорий. Настроена авторизация.
 
